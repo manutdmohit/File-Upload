@@ -1,5 +1,5 @@
 # File-Upload
-Upload file (images) using express.js. Store images in cloudinary
+Upload file (images) using express.js. Store images in cloudinary.
 
 - To start the project
 ```
